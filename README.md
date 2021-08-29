@@ -3,8 +3,12 @@
 
 
 
-### Hi there 👋
-I'm Waed Hafitha, Software developer, and I'm from Palestine ![palestine-flag-button-round-icon-16](https://user-images.githubusercontent.com/63124632/131248136-d0de74fa-d633-45c1-b0b4-f5912ebcfa93.png). 
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+I'm Waed Hafitha, Software developer, and I'm from Palestine ![palestine-flag-button-round-icon-16](https://user-images.githubusercontent.com/63124632/131248136-d0de74fa-d633-45c1-b0b4-f5912ebcfa93.png).
+</br>
+I had multiple trainings and internships in Front-End development. To know more about me find me on [![LinkedIn][3.2]][3]. 
+</br>
+You can also view my gitHub repositories.
 
 </br>
 
@@ -17,9 +21,14 @@ I'm Waed Hafitha, Software developer, and I'm from Palestine ![palestine-flag-bu
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 
 
+
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3]: https://www.linkedin.com/in/waed-hafitha/
 
 
 
