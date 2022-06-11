@@ -3,7 +3,7 @@
 
 
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%">
 I'm Waed Hafitha, Software developer, and I'm from Palestine ![palestine-flag-button-round-icon-16](https://user-images.githubusercontent.com/63124632/131248136-d0de74fa-d633-45c1-b0b4-f5912ebcfa93.png).
 </br>
 I have strong Front-End development skills, and now my eyes are on the Back-End development. To know more about me find me on [![LinkedIn][3.2]][3]. 
